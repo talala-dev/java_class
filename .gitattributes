@@ -1,1 +1,8 @@
-*.java linguist-language=Java
+
+.idea/** linguist-vendored
+.metadata/** linguist-vendored
+out/** linguist-vendored
+
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
